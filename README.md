@@ -125,6 +125,3 @@ Built as part of a project to automate plagiarism detection in coding contests.
 
 This tool is for **educational & ethical use** only. It is intended to identify possible duplicate submissions in internal contests for fair evaluation.
 
-```
-
-
